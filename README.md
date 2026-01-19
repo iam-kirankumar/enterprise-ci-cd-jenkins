@@ -7,6 +7,8 @@ build, test, package, and deploy a containerized application using **Jenkins**.
 The pipeline reflects real-world practices used in **business-critical retail systems**,
 with a focus on **reliability, safe deployments, and fast recovery**.
 
+This pipeline is intentionally simple but designed to reflect production-grade CI/CD patterns used in enterprise environments.
+
 ---
 
 ## Problem Statement
